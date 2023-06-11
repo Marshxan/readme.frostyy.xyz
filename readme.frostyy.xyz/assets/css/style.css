@@ -480,9 +480,13 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
+  text-align: center;
 }
 
-.about-text p { margin-bottom: 15px; }
+.about-text p { 
+  margin-bottom: 15px;
+  text-align: center;
+}
 
 
 
@@ -1365,7 +1369,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .about .article-title { margin-bottom: 20px; }
 
-  .about-text { margin-bottom: 40px; }
+  .about-text { 
+    margin-bottom: 40px;
+    text-align: center;
+   }
 
   /* service */
 
