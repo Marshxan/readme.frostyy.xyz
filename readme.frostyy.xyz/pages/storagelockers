@@ -16,21 +16,39 @@
   <main>
     <div class="main-content">
       <article class="about  active" data-page="about">
-
         <header>
-          <h2 class="h2 article-title"></h2>
+            <h2 class="h2 article-title">Version 1.0</h2>
         </header>
-
+        <header>
+          <h2 class="h2 article-title">Frostyy.xyz © - Thank You For Buying My Script!</h2>
+        </header>
         <section class="about-text">
-            Not Created Yet
+            How To Install Frostyy_Storage / StorageLockers
         </section>
-
+        <section class="about-text">
+            First Step Is After Buying The Script From Tebex You First Go To Your Keymaster And Download
+            The Frostyy_Storage And Frostyy_Menu That Will Be In The Assets Page!
+        </section>
+        <section class="about-text">
+            After That What Your Going To Do Is Put The Script's In Your Resources And Ensure Both Of Them In server.cfg
+            Please Make Sure Frostyy_Menu Starts First To Ensure The Script Works Correct!
+        </section>
+        <section class="about-text">
+            After That Go To z-readme/shared.lua and import that item into your shared items folder/file if you have not changed Cfg.RaidItem
+        </section>
+        <section class="about-text">
+            Now Go To shared/Config.Lua And Change The Config To Your Liking!
+        </section>
+        <section class="about-text">
+           If You Have Cfg.Update set To true please make sure the resource is named frostyy_storage to ensure the update checker works correct!
+        </section>
+        <section class="about-text">
+           If You Have Any Questions Please Contact Me At contact@frostyy.xyz or fill out <a href="https://contact.frostyy.xyz">the contact form!</a>
+        </section>
       </article>
     </div>
   </main>
-
   <script src="./assets/js/script.js"></script>
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
 </body>
